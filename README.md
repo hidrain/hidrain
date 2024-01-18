@@ -4,7 +4,7 @@
 
 ##### 👨‍💻 Open to work!
 
-🇲🇪 I live in Budva, Montenegro, but I have a Lithuanian citizenship and am eligible to work in Europe Union! I can also work remotely for companies worldwide! 🌎
+🇲🇪 I live in Novi Sad, Serbia, but I have a Lithuanian citizenship and am eligible to work in Europe Union! I can also work remotely for companies worldwide! 🌎
 
 📫 How to reach me:
 
