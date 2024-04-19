@@ -24,7 +24,7 @@ Stack: Typescript, React, React Router v6, react-use, gsap, SASS, styled-compone
 🎲 <a href="https://hidrain.github.io/game-rock-paper-scissors/">Extended version of rock-paper-scissors game</a> — SPA development with game logic written on hooks. Implementation of a randomizer for choosing a game sequence.
 Stack: Typescript, React, react-router-dom, SASS.
 
-💻 <a href="https://beta.ru/brief/mobile-app-2/">Page of the mobile development site</a> — Creating the design and development in the style of the site, creating a custom form on JS and styled-components with integration with CRM and Google Sheets.
+💻 <a href="https://beta.ru/">Page of the mobile development site</a> — Creating the design and development in the style of the site, creating a custom form on JS and styled-components with integration with CRM and Google Sheets.
 Stack: Framer, Typescript, React, styled-components.
 
 👟 <a href="https://spshop-one.vercel.app/">Market for the sale NB sneakers</a> — SPA creating using axios requests to get products. Ability to add and remove products from the shopping cart. Ability to change the number of products in the cart. Calculating the sum. Opening a modal with products on mobile.
