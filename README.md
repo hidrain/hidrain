@@ -30,9 +30,6 @@ Stack: Framer, Typescript, React, styled-components.
 🔍 <a href="https://hidrain.github.io/frontend-trainee-app/">Search by users with filtering on the server</a> — SPA development with receipting users by axios requests, logic for sorting users by name and birthday closest to the current date. Search query filtering.
 Stack: Typescript, React, Redux Toolkit, React Router v6, React Content Loader, axios, styled-components, SASS.
 
-🍕 <a href="https://hidrain.github.io/delivery-app/">Delivery market</a> — SPA creating using axios requests to get products. Ability to add and remove products from the shopping cart. Ability to change the number of products in the cart. Calculating the sum.
-Stack: Typescript, React, Redux Toolkit, React Router v6, axios, lodash.debounce, css modules, SASS.
-
 #
 
 #### My stack
