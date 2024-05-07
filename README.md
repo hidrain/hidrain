@@ -10,7 +10,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-2683C9?style=for-the-badge&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/yuliya-kurilchik-hidrain/)
 
-Email: hidrainn@gmail.com
+Email: kurilchikyuliya@gmail.com
 
 #
 
