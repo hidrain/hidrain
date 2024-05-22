@@ -1,14 +1,8 @@
 ### Hi there 👋 My name is Yuliya
 
-##### I am a passionate frontend developer with ~3 years of experience in IT industry!
-
 ##### 👨‍💻 Open to work!
 
 🇷🇸 I live in Novi Sad, Serbia, but I have a Lithuanian citizenship and am eligible to work in Europe Union! I can also work remotely for companies worldwide! 🌎
-
-📫 How to reach me:
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-2683C9?style=for-the-badge&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/yuliya-kurilchik-hidrain/)
 
 Email: kurilchikyuliya@gmail.com
 
